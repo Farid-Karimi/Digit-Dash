@@ -1,4 +1,4 @@
-# Digit Dash
+![photo-grid](https://github.com/Farid-Karimi/Digit-Dash/assets/118434072/32e5e5e1-a907-4206-b95b-e79a8c48d1de)# Digit Dash
 
 ## Introduction
 
@@ -24,9 +24,11 @@ The game is implemented in Python it utilizes the Pygame library for graphics an
 7. The game ends when either of the above conditions is met, and the player is shown the "Game Over" screen with options to start a new game or quit.
 
 ### Graphics and Styling
+![photo-grid](https://github.com/Farid-Karimi/Digit-Dash/assets/118434072/72920a15-5da9-4a5d-bf00-f74527e7529c)
+
 
 The game uses simple 2D graphics with colored tiles representing the numbers. The colors for the tiles can be chosen by the player from three color palettes available in the game.
-![photo-grid](https://github.com/Farid-Karimi/Digit-Dash/assets/118434072/07db4675-22e4-4197-8143-6ac9119e6b2c)
+
 
 ## Conclusion
 
