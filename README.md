@@ -1,5 +1,3 @@
-![photo-grid](https://github.com/Farid-Karimi/Digit-Dash/assets/118434072/32e5e5e1-a907-4206-b95b-e79a8c48d1de)# Digit Dash
-
 ## Introduction
 
 "Digi Dash" is a puzzle game similar to 2048 where the player combines numbered tiles to reach the goal of creating a tile with the number 16384. The game board consists of a 4x4 grid where the player can slide tiles in four directions (up, down, left, right) to merge tiles with the same number. When two tiles with the same number collide, they merge into a single tile with a doubled value.
