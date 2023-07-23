@@ -593,5 +593,7 @@ if __name__ == '__main__':
     fps = pygame.time.Clock()
     display = pygame.display.set_mode((cst.widthOfWindow, cst.heightOfWindow))
     pygame.display.set_caption("Digit Dash")
+    pygame_icon = pygame.image.load('resources\logo.png')
+    pygame.display.set_icon(pygame_icon)
 
     startScreen()
